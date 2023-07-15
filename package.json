@@ -1,0 +1,12 @@
+{
+    "name": "npm-test-module",
+    "version": "1.0.0",
+    "description": "test module",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "alex virelles",
+    "license": "ISC"
+}

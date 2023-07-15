@@ -5,7 +5,7 @@ pragma abicoder v2 ;
 /**
  * @title Contract
  */
-contract Contract {
+contract Contract1 {
 
     function some() public returns (uint8) {
         return 10
